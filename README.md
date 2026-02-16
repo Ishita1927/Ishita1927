@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Ishita  
 
-<!--
-**Ishita1927/Ishita1927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Computer Science undergraduate (2023–2027)  
+ Web Development | Cloud 
+ Actively seeking learning-focused internship opportunities  
 
-Here are some ideas to get you started:
+##  Skills
+**Web Development:**  
+- HTML, CSS, basic javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud**  
+- AWS (EC2, S3, IAM)
+- Linux   
+
+📫 Reach me at: ishitakunjekar123@gmail.com  
+🌱 I’m currently learning: Devops, AI integration
+
+
