@@ -1,8 +1,8 @@
 Hi, I'm Ishita  
 
  Computer Science undergraduate (2023–2027)  
- Web Development | Cloud 
- Actively seeking learning-focused internship opportunities  
+ Web Development | Cloud |
+ Actively seeking learning-focused internship opportunities
 
 ##  Skills
 **Web Development:**  
