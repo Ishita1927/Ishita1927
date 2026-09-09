@@ -1,52 +1,46 @@
-# Hi, I'm Ishita Kunjekar! 👋
+# Hi, I'm Ishita Kunjekar 👋
 
-Analytical **3rd-year B.Tech Computer Science student specializing in E-Commerce Technology** at Vellore Institute of Technology (VIT), Bhopal. I focus on turning raw datasets into actionable business insights using Python, SQL, and Power BI.
+Final-year Computer Science undergraduate (E-Commerce Technology) who enjoys the full journey from raw data to a decision someone can act on — cleaning and querying data, designing KPIs, building dashboards that make patterns visible, and framing findings around what they mean for the product or business.
 
-📬 **How to reach me:**
-* 📧 Email: ishitakunjekar123@gmail.com
-* 💼 LinkedIn: (https://linkedin.com/in/ishita-kunjekar-31a101313)
+📍 Pune, Maharashtra | 🎓 VIT Bhopal, B.Tech CSE (E-Commerce Tech), 2023–2027
 
 ---
 
-## 🛠️ Technical Toolkit
+### 🔭 What I do
+- 📊 Data analysis, cleaning & transformation with **Python (Pandas, NumPy)**
+- 🗄️ Structured querying, root-cause & driver analysis with **SQL (MySQL)**
+- 📈 Interactive dashboards & data visualization with **Power BI + DAX**
+- 🧩 Requirement gathering & translating user feedback into product/business insights
+- 📝 Writing clear, data-backed recommendations for stakeholders
 
-* **Data Visualization & BI:** Microsoft Power BI, DAX Formulas (basic), Dashboard Design
-* **Data & Analytics:** SQL (MySQL), Python (Pandas), Microsoft Excel
-* **Cloud & Networking:** AWS (EC2, S3, IAM, VPC), Computer Networks
-* **Business & Product:** Requirement Gathering, E-Commerce Operations, CRM, Product Strategy
-* **Developer Tools:** Git, GitHub, HTML, CSS
-
-📌 **Currently Learning:** Tableau, Advanced SQL & DAX, Data Structures & Algorithms (DSA) in Java and Aiml basics
-
----
-
-## 🚀 Featured Projects
-
-### 📊 E-Commerce Sales Dashboard *(Python, SQL, Power BI)*
-* Cleaned and pre-processed a 500-row raw dataset using Python (Pandas) to standardize data formats and handle missing values.
-* Designed and executed 8 SQL queries to track revenue trends, customer purchasing behavior, and product performance.
-* Built an interactive Power BI dashboard utilizing custom DAX measures to separate delivered and cancelled items, calculating critical metrics like AOV and delivery rates.
-  
-### 🌐 Personal Portfolio Website *(Frontend Development)*
-* Developed and styled a fully responsive personal landing page utilizing HTML and CSS.
-* Hosted and configured the static site deployment using GitHub Pages.
+### 🧰 Tools & Technologies
+`Python` `SQL (MySQL)` `Power BI` `DAX` `Microsoft Excel` `Git/GitHub` `Java` `JavaScript` `HTML/CSS` `Machine Learning`
 
 ---
 
-## 🏆 Certifications & Highlights
+### 🚀 Featured Projects
 
-* **Marketing Management II** – NPTEL, IIT Kanpur (Score: 87% - Elite + Silver)
-* **Deep Learning** – NPTEL, IIT Ropar
-* **Google IT Support Professional Certificate** – Google
-* **Get Started Building with Power BI** – Microsoft Learn
+**[E-Commerce Sales Dashboard](https://github.com/Ishita1927)** — *Python, MySQL, Power BI*
+Gathered requirements and cleaned raw e-commerce data end-to-end with Python, wrote 8 SQL queries to surface revenue trends and purchase patterns, and designed an interactive Power BI dashboard with DAX-based KPIs (Revenue, Order Count, AOV, Delivery Rate) giving stakeholders at-a-glance visibility into the business.
 
----
+**[Customer Churn Prediction & Retention Analysis](https://github.com/Ishita1927)** — *Python, Scikit-Learn, Pandas*
+Analyzed 3,300+ subscriber records to identify key churn drivers using a Decision Tree Classifier (91.6% accuracy), then translated the model's findings into a written report with clear, actionable recommendations for improving retention.
 
-## ⚡ Leadership & Beyond
-
-* **co-Lead** @ E-Commerce Club, VIT Bhopal – Initiated and organized tech-business events.
-* **PR Team Member** @ Blockchain Club, VIT Bhopal – Handled campus public relations and workshop outreach strategies.
-* **College Basketball Player** – Team player built for high-pressure execution and swift collaboration.
+**[Personal Portfolio Website](https://github.com/Ishita1927)** — *HTML, CSS, GitHub Pages*
+Independently designed, built, and deployed a responsive personal website end-to-end — from requirement gathering to delivery.
 
 ---
 
+### 📜 Certifications
+- Exploratory Data Analysis (EDA) — NASSCOM
+- Marketing Management II — NPTEL, IIT Kanpur (Elite + Silver, 87%)
+- Google IT Support Professional Certificate — Google
+- Deep Learning — NPTEL, IIT Ropar
+- Industrial IoT in Markets and Security — Coursera
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitakunjekar123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishita1927)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakunjekar123@gmail.com)
