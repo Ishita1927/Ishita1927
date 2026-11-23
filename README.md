@@ -34,9 +34,6 @@ Analyzed transactional data to track Revenue, Order Volume, Average Order Value 
 **[Customer Churn Analysis](https://github.com/Ishita1927/Customer-Churn-analysis)** · *Python (Pandas, Scikit-learn), Power BI* · Mar 2026
 Analyzed 3,300+ customer records to uncover drop-off patterns and trained a Decision Tree classifier (**91.6% accuracy**). Segmented high-risk cohorts to design targeted retention and re-engagement initiatives.
 
-**[zaikaBalance](https://github.com/Ishita1927)** · *Codeverse Hackathon 2025, Top 50 Finalist*
-Worked with a 4-member team from ideation to a working prototype of a personalized nutrition web app with barcode food scanning.
-
 **More:** [Portfolio Website](https://github.com/Ishita1927/Portfolio-website) · [Java Core & DSA](https://github.com/Ishita1927/Java_Core_DSA) · [HelpDesk Management (ASP.NET Core)](https://github.com/Ishita1927/HelpDeskManagement)
 
 ---
