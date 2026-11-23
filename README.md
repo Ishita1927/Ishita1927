@@ -1,46 +1,65 @@
 # Hi, I'm Ishita Kunjekar 👋
 
-Final-year Computer Science undergraduate (E-Commerce Technology) who enjoys the full journey from raw data to a decision someone can act on — cleaning and querying data, designing KPIs, building dashboards that make patterns visible, and framing findings around what they mean for the product or business.
+**Product, Growth & AI/Data Analytics | CSE (E-Commerce Technology) @ VIT Bhopal**
 
-📍 Pune, Maharashtra | 🎓 VIT Bhopal, B.Tech CSE (E-Commerce Tech), 2023–2027
+I turn user feedback and business data into product specs, growth experiments and KPI dashboards. I enjoy the full path from raw data to a decision someone can act on: querying and cleaning data, defining KPIs, building dashboards, and framing findings around what they mean for the product.
+
+🎓 B.Tech CSE (E-Commerce Technology), VIT Bhopal, 2023–2027 (CGPA 8.03/10)
+📍 Pune, Maharashtra
+🔎 Looking for **Product, Growth or AI/Data Analytics internships**
 
 ---
 
 ### 🔭 What I do
-- 📊 Data analysis, cleaning & transformation with **Python (Pandas, NumPy)**
-- 🗄️ Structured querying, root-cause & driver analysis with **SQL (MySQL)**
-- 📈 Interactive dashboards & data visualization with **Power BI + DAX**
-- 🧩 Requirement gathering & translating user feedback into product/business insights
-- 📝 Writing clear, data-backed recommendations for stakeholders
+
+- 🧩 **Product:** user research & Voice of Customer, PRDs and user stories, RICE prioritization, competitive benchmarking, user journey mapping
+- 📈 **Growth:** funnel and retention strategy, KPI definition, finding conversion bottlenecks
+- 📊 **Data & analytics:** SQL (MySQL), Power BI, Excel / Google Sheets, EDA, Python (Pandas, Scikit-learn, Matplotlib)
+- 🤖 **Applied AI:** LLM-assisted analysis, RAG fundamentals, prompt workflows with Claude and ChatGPT
 
 ### 🧰 Tools & Technologies
-`Python` `SQL (MySQL)` `Power BI` `DAX` `Microsoft Excel` `Git/GitHub` `Java` `JavaScript` `HTML/CSS` `Machine Learning`
+
+`SQL (MySQL)` `Power BI` `DAX` `Excel` `Google Sheets` `Python` `Pandas` `Scikit-learn` `Matplotlib` `LLMs` `RAG` `Claude` `ChatGPT` `Git/GitHub` `Java` `HTML/CSS`
 
 ---
 
 ### 🚀 Featured Projects
 
-**[E-Commerce Sales Dashboard](https://github.com/Ishita1927)** — *Python, MySQL, Power BI*
-Gathered requirements and cleaned raw e-commerce data end-to-end with Python, wrote 8 SQL queries to surface revenue trends and purchase patterns, and designed an interactive Power BI dashboard with DAX-based KPIs (Revenue, Order Count, AOV, Delivery Rate) giving stakeholders at-a-glance visibility into the business.
+**[ReviewLens AI: Swiggy & Zomato Customer Intelligence](https://github.com/Ishita1927)** · *AI review analysis, competitive benchmarking, PRDs, RICE, Python* · Oct 2026
+Analyzed multi-platform user reviews (Play Store, App Store, Trustpilot) with AI-assisted theme extraction to benchmark sentiment and post-order UX friction between Swiggy and Zomato. Turned the insights into structured PRDs, feature recommendations and a RICE-prioritized roadmap with measurable retention and satisfaction KPIs.
 
-**[Customer Churn Prediction & Retention Analysis](https://github.com/Ishita1927)** — *Python, Scikit-Learn, Pandas*
-Analyzed 3,300+ subscriber records to identify key churn drivers using a Decision Tree Classifier (91.6% accuracy), then translated the model's findings into a written report with clear, actionable recommendations for improving retention.
+**[E-Commerce Sales Dashboard](https://github.com/Ishita1927/ecommerce-sales-dashboard)** · *SQL (MySQL), Power BI, Excel* · May 2026
+Analyzed transactional data to track Revenue, Order Volume, Average Order Value (AOV) and SLA Delivery Rate. Wrote 8 SQL queries and built an interactive Power BI dashboard to pinpoint conversion bottlenecks and support data-backed decisions.
 
-**[Personal Portfolio Website](https://github.com/Ishita1927)** — *HTML, CSS, GitHub Pages*
-Independently designed, built, and deployed a responsive personal website end-to-end — from requirement gathering to delivery.
+**[Customer Churn Analysis](https://github.com/Ishita1927/Customer-Churn-analysis)** · *Python (Pandas, Scikit-learn), Power BI* · Mar 2026
+Analyzed 3,300+ customer records to uncover drop-off patterns and trained a Decision Tree classifier (**91.6% accuracy**). Segmented high-risk cohorts to design targeted retention and re-engagement initiatives.
+
+**[zaikaBalance](https://github.com/Ishita1927)** · *Codeverse Hackathon 2025, Top 50 Finalist*
+Worked with a 4-member team from ideation to a working prototype of a personalized nutrition web app with barcode food scanning.
+
+**More:** [Portfolio Website](https://github.com/Ishita1927/Portfolio-website) · [Java Core & DSA](https://github.com/Ishita1927/Java_Core_DSA) · [HelpDesk Management (ASP.NET Core)](https://github.com/Ishita1927/HelpDeskManagement)
 
 ---
 
+### 🏆 Leadership & Achievements
+
+- 🏅 **Codeverse Hackathon 2025:** Top 50 Finalist
+- 📣 **PR Team Member, Blockchain Club (VIT Bhopal), Jun 2024 – Aug 2025:** ran campus campaigns and external outreach, coordinating across technical and operations teams
+- 🏀 **Basketball:** Team Champions at Aarambh '24, First Position at Advitya 2025
+- 💃 **Bharatanatyam:** national-level dancer; qualified national-level examination
+
 ### 📜 Certifications
-- Exploratory Data Analysis (EDA) — NASSCOM
-- Marketing Management II — NPTEL, IIT Kanpur (Elite + Silver, 87%)
-- Google IT Support Professional Certificate — Google
-- Deep Learning — NPTEL, IIT Ropar
-- Industrial IoT in Markets and Security — Coursera
+
+- Marketing Management II, NPTEL, IIT Kanpur (Elite + Silver, 87%)
+- Exploratory Data Analysis (EDA), NASSCOM
+- Deep Learning, NPTEL, IIT Ropar
+- Google IT Support Professional Certificate, Google
+- Industrial IoT in Markets and Security, Coursera
 
 ---
 
 ### 📫 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitakunjekar123)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishita1927)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitakunjekar123@gmail.com)
